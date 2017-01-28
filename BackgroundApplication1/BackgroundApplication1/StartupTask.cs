@@ -13,7 +13,7 @@ namespace BackgroundApplication1
     {
         public void Run(IBackgroundTaskInstance taskInstance)
         {
-            // 
+            // some text
             // TODO: Insert code to perform background work
             //
             // If you start any asynchronous methods here, prevent the task
